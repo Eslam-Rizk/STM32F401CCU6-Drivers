@@ -1,0 +1,10 @@
+../Src/MGPIO_program.c:11:6:MGPIO_voidSetPinMode	5
+../Src/MGPIO_program.c:30:6:MGPIO_voidSetPinOType	5
+../Src/MGPIO_program.c:50:6:MGPIO_voidSetPinOSpeed	5
+../Src/MGPIO_program.c:69:6:MGPIO_voidSetPinPUPD	5
+../Src/MGPIO_program.c:88:6:MGPIO_voidGetPinValue	5
+../Src/MGPIO_program.c:105:6:MGPIO_voidSetPinValue	5
+../Src/MGPIO_program.c:124:6:MGPIO_voidSetPinOutput	1
+../Src/MGPIO_program.c:130:6:MGPIO_voidSetPinInput	1
+../Src/MGPIO_program.c:135:6:MGPIO_voidTogglePinValue	5
+../Src/MGPIO_program.c:156:6:MGPIO_voidSet8PinsValue	3

@@ -1,0 +1,3 @@
+../Src/MRCC_program.c:10:6:MRCC_voidInitSystemClock	2
+../Src/MRCC_program.c:161:6:MRCC_voidEnableVendorPerphiral	5
+../Src/MRCC_program.c:170:6:MRCC_voidDisableVendorPerphiral	5

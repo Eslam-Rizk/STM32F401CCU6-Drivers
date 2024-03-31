@@ -1,0 +1,7 @@
+"./Src/MGPIO_program.o"
+"./Src/MRCC_program.o"
+"./Src/STK_program.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f401ccux.o"
