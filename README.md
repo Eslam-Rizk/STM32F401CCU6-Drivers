@@ -9,7 +9,6 @@ This repository contains a collection of drivers and example code for the STM32F
 3. [Getting Started](#getting-started)
 4. [Directory Structure](#directory-structure)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Introduction
 
